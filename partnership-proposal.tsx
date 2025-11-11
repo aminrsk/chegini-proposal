@@ -454,7 +454,7 @@ const RevenueModel = () => (
               <th className="text-left py-3 px-4">Timeline</th>
               <th className="text-center py-3 px-4">Deals/Month</th>
               <th className="text-right py-3 px-4">Gross Revenue</th>
-              <th className="text-right py-3 px-4">Operating Costs</th>
+              <th className="text-right py-3 px-4">Tools Costs</th>
               <th className="text-right py-3 px-4">Net Revenue</th>
               <th className="text-right py-3 px-4">Per Partner</th>
             </tr>
