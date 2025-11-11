@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { TrendingUp, Users, DollarSign, Target, CheckCircle, AlertCircle, BarChart3, Clock, HelpCircle, Edit3, Save, X } from 'lucide-react';
 
-const API_URL = 'http://localhost:3008/api';
+const API_URL = import.meta.env.VITE_API_URL || '';
 
 // Default content structure
 const defaultContent = {
