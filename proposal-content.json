@@ -1,0 +1,287 @@
+{
+  "lastUpdated": "2025-11-11T15:45:22.099Z",
+  "content": {
+    "header": {
+      "title": "Chegini Mortgage AI Platform",
+      "subtitle": "Partnership Proposal & Organizational Structure",
+      "preparedBy": "Amin Rastikerdar",
+      "date": "November 10, 2025"
+    },
+    "executive": {
+      "businessObjective": "Build an AI-powered platform that automates underwriting process and potentially other processes for mortgage brokerages, and scales to serve both in-house operations and external brokerages as a SaaS product. As well as building an AI-enhanced digital marketing system that generates qualified leads.",
+      "revenueTargetShort": "$20-40K/month from direct mortgage deals",
+      "revenueTargetMedium": "Scale to $60-100K/month",
+      "platform1Title": "AI Underwriter Platform",
+      "platform1Desc": "Replaces manual underwriting process, matches clients with optimal lenders from tousands of products",
+      "platform2Title": "Velocity & Discovery Integration",
+      "platform2Desc": "Seamless data extraction from existing mortgage workflow, API-powered automation",
+      "platform3Title": "Marketing & CRM System",
+      "platform3Desc": "Lead generation, email automation, sales funnel management for agent network",
+      "decisionSummary": {
+        "capitalInitial": "$500",
+        "roiFirstRevenue": "Week 11-12"
+      },
+      "criticalSuccessFactors": [
+        "Platform Launch on Schedule: Complete AI underwriter and CRM system within 8-10 weeks to enable first marketing campaign",
+        "Email List Activation: Successfully engage Kambiz's 22,000 contact database with 15%+ open rates and 0.5%+ conversion to qualified leads in the first 6 months",
+        "First Revenue Milestone: Close 2-3 deals by Week 11-12, validating the business model and AI platform effectiveness",
+        "Partnership Alignment: Maintain clear communication on equity split, revenue distribution, and decision-making authority to avoid conflicts"
+      ],
+      "marketPainPoints": [
+        "Pre-Construction Appraisal Crisis: Banks valuate 10-30% below purchase price, deals collapse, agents lose commissions",
+        "Manual Product Selection: Brokers manually compare 1400+ products but typically only work with 6-8 familiar lenders",
+        "Daily Rate Volatility: Product rates and rules change daily via lender emails, impossible to track manually",
+        "Suboptimal Matching: Human limitation leads to missed opportunities and slower processing",
+        "Document adjustment: Some clients need to have their documents pre-evaluated and adjusted before submission, since Velocity locks files to prevent post-submission changes."
+      ],
+      "competitiveAdvantages": [
+        "Comprehensive Coverage: AI evaluates ALL 1400+ products, not just familiar ones",
+        "Scotiabank Special Channel: Access to proprietary appraisal process (10-15% higher valuations)",
+        "B-Lender Expertise: Automatic routing for undocumented income clients (non-income qualified programs)",
+        "\"Remedy\" Function: AI suggests actionable solutions when clients don't qualify",
+        "Industry Expertise + Tech: Kambiz's experience combined with cutting-edge AI",
+        "GTA Market Focus: Average home price $1.05M, 23% of Canadian mortgage debt"
+      ]
+    },
+    "revenue": {
+      "avgMortgage": "$750K",
+      "avgMortgageNote": "Based on 2025 market data",
+      "commissionRange": "0.7-1.2%",
+      "commissionNote": "Prime lenders: 0.7%, Alt lenders: 1.2%+",
+      "revenuePerDeal": "$5,250",
+      "revenueNote": "Conservative estimate @ 0.7%",
+      "operatingCostsNote": "Operating costs vary from $500-$1500 CAD/month depending on AI/API usage, hosting requirements, and system scaling after platform launch",
+      "saasItems": [
+        "Sell the sertvice to other brokerages",
+        "$500-$1,000/month per brokerage",
+        "Target: 10 brokerages = $10K/month"
+      ],
+      "agentToolsItems": [
+        "Lead gen/management system",
+        "AI assistance & marketing automation",
+        "$50-$100/month per agent"
+      ],
+      "trainingItems": [
+        "AI adoption workshops",
+        "Mortgage broker training",
+        "$1,000-$5,000 per program"
+      ]
+    },
+    "partnership": {
+      "recommendedApproach": "Equal partnership recognizes the combined value of technical innovation and industry expertise. Both partners bring critical, complementary assets that are equally necessary for success.",
+      "kambizContributes": [
+        "Active mortgage broker license & compliance",
+        "Industry expertise",
+        "22,000+ real estate contact database",
+        "Lender relationships & negotiation power",
+        "Handles all client consultations & closings",
+        "Velocity/Discovery subscriptions",
+        "Covers $350 USD/month tool costs",
+        "Scotiabank special appraisal channel access"
+      ],
+      "aminContributes": [
+        "60 hours already invested in prototype",
+        "400 hours committed for 8-10 week build",
+        "Ongoing 35-50 hours/week dedicated time",
+        "AI/ML expertise & platform architecture",
+        "Marketing automation & CRM systems",
+        "Lead generation & email campaign management",
+        "All technical development & maintenance",
+        "Product expansion for SaaS offering"
+      ],
+      "investmentReality": "",
+      "option2Description": "Acknowledges Amin's higher time investment during build phase 400+ hours, transitions to lower split as platform matures.",
+      "option2Note": "Requires clear documentation and tracking of phase transitions. Consider simplicity vs. fairness trade-off.",
+      "questions": [
+        "Operational Costs: What are the actual costs per deal? (Processing time, administrative overhead, Dominion Lending split)",
+        "Commission Structure & Brokerage Split: How does the 0.7% base commission vary? (A-lenders vs B-lenders, special programs) What percentage goes to Dominion Lending vs. retained by Kambiz?",
+        "Time Investment: What is Kambiz's realistic hours per week commitment during different phases?",
+        "Existing Revenue: What is current monthly mortgage income that this will enhance/replace?"
+      ],
+      "decisionMaking": [
+        "Kambiz: Final authority on mortgage operations, lender selection, client relations",
+        "Amin: Final authority on technical development, marketing strategy, platform features",
+        "Major business decisions (hiring, expansion, pricing): Mutual agreement required"
+      ],
+      "exitStrategy": [
+        "Right of first refusal: Partner must offer sale to other partner before external buyers",
+        "Valuation: Based on 5x trailing 12-month net profit",
+        "Dissolution: Amin retains all source code/IP, Kambiz retains client relationships",
+        "No external sale without mutual consent"
+      ]
+    },
+    "workflow": {
+      "steps": [
+        {
+          "phase": "1. Lead Generation",
+          "owner": "Amin",
+          "details": "Email campaigns to 22K contacts → Landing page → CRM capture → Funnel stages (Discovered → Contacted → Qualified → Converted)"
+        },
+        {
+          "phase": "2. Client Onboarding",
+          "owner": "Kambiz",
+          "details": "Initial consultation → Velocity form completion"
+        },
+        {
+          "phase": "3. AI Underwriting",
+          "owner": "Amin - AI Platform",
+          "details": "Extract data from Velocity → Match against 1,109 lending rules → 3 outcomes: Product match / Remedies / Optimization recommendations"
+        },
+        {
+          "phase": "4. Manual Review",
+          "owner": "Kambiz",
+          "details": "Review AI recommendations → Generate submission letter → Select final lender from Discovery → Validate with Broker of Record"
+        },
+        {
+          "phase": "5. Lender Submission",
+          "owner": "Kambiz",
+          "details": "Submit package to lender underwriter → Handle conditions/additional docs → Negotiate if needed → Secure approval"
+        },
+        {
+          "phase": "6. Closing & Commission",
+          "owner": "Both",
+          "details": "Client signs mortgage → Lender funds deal → Commission paid to brokerage → Split per agreement → Update CRM for retention marketing process"
+        }
+      ],
+      "timeReality": "",
+      "kambizWeekly": [
+        "Client consultations: 20-25 hours",
+        "Document review: 5-10 hours",
+        "Lender communication: 5-10 hours",
+        "Administrative: 5-10 hours",
+        "Total: 35-55 hours/week"
+      ],
+      "aminWeekly": [
+        "Platform development: 20-25 hours",
+        "Marketing/CRM: 10-15 hours",
+        "Campaign management: 5-10 hours",
+        "Meetings & coordination: 3-5 hours",
+        "Total: 35-55 hours/week"
+      ]
+    },
+    "timeline": {
+      "phase1Title": "Weeks 1-2: Partnership Agreement & Legal Setup",
+      "phase1Badge": "Decision & Legal",
+      "phase1LeadBy": "Both Partners",
+      "phase1Deliverables": [
+        "Choose partnership type (individual vs. company partnership)",
+        "Select equity split model (Option 1 or Option 2)",
+        "Review and finalize partnership agreement",
+        "Sign partnership agreement",
+        "Incorporate business entity (Ontario Corp or Partnership)",
+        "Open business bank account",
+        "Set up accounting system"
+      ],
+      "phase1Investment": "$500-$800 (legal filing, business setup)",
+      "phase1CriticalNote": "NO technical work begins until agreement is signed. Amin starts development in Week 3.",
+      "phase2Title": "Weeks 3-12: AI Platform Development",
+      "phase2Badge": "Build Phase",
+      "phase2LeadBy": "Amin with Kambiz support",
+      "phase2AminWork": [
+        "AI underwriter platform core development",
+        "Velocity API integration for data extraction",
+        "Custom CRM with sales funnel stages",
+        "Landing page with lead capture form",
+        "Email automation sequences (5 drip campaigns)",
+        "Marketing website and campaign setup",
+        "AI matching logic and testing",
+        "Set up development subdomain (test.cheginimortgage.com)",
+        "Subscribe to required tools (hosting, email, AI APIs)",
+        "Begin email list cleaning (22K contacts)"
+      ],
+      "phase2KambizSupport": [
+        "Provide real case files for AI training",
+        "Review and approve marketing messaging",
+        "Test Velocity data extraction",
+        "Secure Velocity API access (resolve pending status)"
+      ],
+      "phase2Investment": "Tool subscriptions ($500 per month during the build phase; after launch, costs may increase depending on usage and project scale) will be paid by Kambiz before revenue generation, but Kambiz will recover this cost from the system's first generated revenue.",
+      "phase2Milestone": "By end of Week 12, platform is operational and ready for first marketing campaign",
+      "phase3Title": "Month 1-2 Post-Launch: First Marketing Campaign",
+      "phase3Badge": "Launch Phase",
+      "phase3Timeline": "Weeks 13-16 (or Months 1-2 after platform launch)",
+      "phase3Marketing": [
+        "Send first email campaign to 1,000 segmented contacts (real estate agents) and increase the send gradually over the weeks",
+        "Launch landing pages and lead capture",
+        "Monitor CRM pipeline and lead quality",
+        "A/B test initial messaging"
+      ],
+      "phase3Operations": [
+        "Process first qualified leads through AI underwriter",
+        "Handle 3-5 client consultations",
+        "Provide feedback to refine AI recommendations",
+        "Close first 2-3 deals"
+      ],
+      "phase3Metrics": {
+        "leads": "10-20",
+        "consultations": "3-5",
+        "deals": "2-3",
+        "revenue": "$10,500-$15,750"
+      },
+      "phase3RevenueTarget": "3-4 deals/month average",
+      "phase4Title": "Month 3-6 Post-Launch: Scale & Optimize",
+      "phase4Badge": "Growth Phase",
+      "phase4Marketing": [
+        "Scale email campaigns to full 22K list (segmented)",
+        "Launch cold outreach to construction developers",
+        "A/B test landing pages for conversion optimization",
+        "Set up retargeting ads (Google/Facebook)",
+        "Host first webinar: AI in Mortgages for agents"
+      ],
+      "phase4Platform": [
+        "AI generates submission letters automatically",
+        "Enhance remedy recommendation engine",
+        "Integrate with more lenders (B-lenders, private)",
+        "Build client self-service portal for example credit repair service"
+      ],
+      "phase4Business": [
+        "Prepare agent training presentation",
+        "Explore SaaS beta with 1-2 friendly brokers"
+      ],
+      "phase4RevenueTarget": "8-10 deals/month, $40K+/month revenue",
+      "phase5Title": "Month 7-12 Post-Launch: Market Expansion",
+      "phase5Badge": "Scale Phase",
+      "phase5Revenue": [
+        "Core business: 15-20 deals/month",
+        "Launch 16-week training program for real estate agents",
+        "Partner with 2-3 real estate brokerages",
+        "Begin SaaS offerings to other brokerages",
+        "Agent tools and training programs"
+      ],
+      "phase5Team": [
+        "Hire first admin assistant (part-time)",
+        "Consider 1-2 junior brokers (optional)",
+        "Marketing coordinator (part-time, optional)",
+        "Part-time developer support for Amin (optional)"
+      ],
+      "phase5Strategic": [
+        "Patent AI underwriting process",
+        "Position for future expansion",
+        "Expand to other provinces (future consideration)"
+      ],
+      "phase5RevenueTarget": "15-20 deals/month, $60-100K+/month revenue",
+      "kpis": {
+        "marketing": [
+          "Email open rate: 15%+",
+          "Landing page conversion: 1–2%",
+          "Cost per qualified lead: <$100"
+        ],
+        "sales": [
+          "Lead-to-consultation conversion: 25%",
+          "Consultation-to-approved-deal conversion: 35%",
+          "Average mortgage size: $500K–$700K"
+        ],
+        "operations": [
+          "AI recommendation accuracy: 85% vs. manual underwriting",
+          "Average processing time per deal: <2 hours",
+          "Broker/partner satisfaction: ≥4.2 / 5"
+        ],
+        "financial": [
+          "Monthly revenue growth: 5–10%",
+          "Operating margin: 55–65%",
+          "Time to break-even: Within 9 months"
+        ]
+      }
+    }
+  }
+}
