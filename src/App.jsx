@@ -443,7 +443,7 @@ const PartnershipProposal = () => {
           )}
           <button
             onClick={() => setEditMode(!editMode)}
-            className={`flex items-center gap-2 px-4 py-2 rounded-lg shadow-lg transition-all ${
+            className={`hidden flex items-center gap-2 px-4 py-2 rounded-lg shadow-lg transition-all ${
               editMode 
                 ? 'bg-red-600 text-white hover:bg-red-700' 
                 : 'bg-blue-600 text-white hover:bg-blue-700'
